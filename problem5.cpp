@@ -26,7 +26,6 @@ int main(int argc,char** argv)
         }
         if(isdiv == 1) {
             y = 1;
-            //break;
         }
         else {
           isdiv = 1;
